@@ -9,11 +9,11 @@ Aprender a implementar una red virtual de Azure así como el proceso para interc
 
 **Desarrollo**
 1. Creación de un Grupo de recursos.
+
 ![Resource Group ej. Sesion 5](../Pr%C3%A1ctica5/Images/Resource%20Group.png)
 
 2. Implementación de dos Azure Virtual NetWorks.
 ![Virtual NetWorks ej VN1](../Pr%C3%A1ctica5/Images/Virtual%20Networks.png)
-
 Al crear estos dos recursos, debemos tener en mente la regió donde se hospedarán las VMs, ya que de los contraio no se podrá conseguir el objetivo de la práctica.
 
 3. Implementación de 2 Azure Virtual Machines.
@@ -75,4 +75,7 @@ donde ```10.2.0.4``` es Private IP address de la VM2, dato que sacamos del Netwo
 ![](../Pr%C3%A1ctica5/Images/Network%20Interface.png) 
 
 Una vez hecho lo anterior podremos ver que todo se ha hecho correctamente porque comenzaremos a ver lo siguiente:
-![](../Pr%C3%A1ctica5/Videos/running%20peering.mp4)
+
+
+https://user-images.githubusercontent.com/72471180/174392139-f82d61fc-f7bf-40d5-9d80-f8e1546823af.mp4
+
